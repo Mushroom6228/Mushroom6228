@@ -11,14 +11,14 @@
   </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMushroom6228&s=40&c=db0016&bg=00000000&no=4&ff=linebeam&tb=&ta=" alt="visits">" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMushroom6228&s=40&c=db0016&bg=00000000&no=4&ff=linebeam&tb=&ta=" alt="visits"/></p> 
 </div>
       
 <br>
 <br>
       
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/56b40f79-bd91-4e07-aba5-5faee7507625.gif">
+  <img src="https://i.imgur.com/VmS6VNz.gif">
 </div>
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;Be+welcome!" alt="Typing SVG"/>
