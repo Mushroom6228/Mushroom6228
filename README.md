@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=723172"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=861d1d"/>
 
 <div align="center">
   <samp>
@@ -6,7 +6,7 @@
       ソフトウェアエンジニア
     </b>
       <br>
-      Myname is Mushroom
+      My name is Mushroom
       <br>
   </samp>
 </div>
@@ -18,7 +18,7 @@
 <br>
       
 <div align="center">
-  <img src="https://imgur.com/gallery/haise-sasaki-4zXqzBQ#VmS6VNz.gif" width="200">
+  <img src="https://github.com/user-attachments/assets/56b40f79-bd91-4e07-aba5-5faee7507625.gif">
 </div>
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;Be+welcome!" alt="Typing SVG"/>
@@ -46,14 +46,14 @@
     height=165
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mushroom6228&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mushroom6228&theme=tokyonight"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Top Language"
-    src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mushroom6228&theme=shadow-purple&hide_border=true)](https://git.io/streak-stats)"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mushroom6228&theme=tokyonight"
   />
   <br>
   <br>
@@ -61,7 +61,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Mushroom6228&theme=tokyonight&hide_border=true"
   />
   </div>
 
@@ -104,4 +104,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=723172&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=861d1d&height=100&section=footer"/>
