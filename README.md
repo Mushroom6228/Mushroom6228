@@ -6,8 +6,11 @@
       ソフトウェアエンジニア
     </b>
       <br>
-      My name is Mushroom
+      Olá, meu nome é Gabriel | Indie Hacker <br>
+      Moro em São Paulo, tenho 17 anos e estou começando minha carreira como programador agora,
+    <br> busco melhorar constantemente minhas habilidades de programação para poder exercê-la da melhor maneira possível.
       <br>
+    <br>
   </samp>
 </div>
 <div align="center">
