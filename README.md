@@ -6,9 +6,9 @@
       ソフトウェアエンジニア
     </b>
       <br>
-      Olá, meu nome é Gabriel | Indie Hacker <br>
-      Moro em São Paulo, tenho 17 anos e estou começando minha carreira como programador agora,
-    <br> busco melhorar constantemente minhas habilidades de programação para poder exercê-la da melhor maneira possível.
+      Hello, my name is Gabriel | Indie Hacker <br>
+      I live in São Paulo, I'm 17, and I'm starting my career as a programmer now,
+    <br> I constantly seek to improve my programming skills so that I can exercise them in the best possible way.
       <br>
     <br>
   </samp>
