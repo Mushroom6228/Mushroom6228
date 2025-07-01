@@ -10,6 +10,7 @@
       I live in São Paulo, I'm 17, and I'm starting my career as a programmer now,
     <br> I constantly seek to improve my programming skills so that I can exercise them in the best possible way.
       <br>
+      <br> visits:
     <br>
   </samp>
 </div>
